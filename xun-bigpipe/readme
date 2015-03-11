@@ -1,0 +1,2 @@
+{{ widget path="one" id="one" model="quick" }}
+model模式说明：pipeline按序自动输出 quick手动加载 async自动输出

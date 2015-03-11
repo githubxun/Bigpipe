@@ -1,0 +1,25 @@
+{
+  "name": "xun-bigPipe",
+  "version": "2.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "async": "0.2.10",
+	"underscore": "1.6.0"
+  },
+  "description": "bigPipe",
+  "main": "bigpipe.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": "",
+  "keywords": [
+    "bigPipe"
+  ],
+  "author": "yangxun"
+}
